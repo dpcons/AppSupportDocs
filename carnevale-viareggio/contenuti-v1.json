@@ -1,0 +1,170 @@
+{
+  "versione": 1,
+  "edizione": "2027",
+  "aggiornatoIl": "2026-08-06T00:00:00+02:00",
+  "fonte": "https://viareggio.ilcarnevale.com/",
+  "eventi": [
+    {
+      "titolo": "La Notte dei Bozzetti 2027",
+      "categoria": "AppuntamentoCulturale",
+      "descrizione": "Presentazione pubblica dei bozzetti delle opere allegoriche della prossima edizione.",
+      "inizio": "2026-08-10T21:00:00+02:00",
+      "luogo": "Cittadella del Carnevale di Viareggio"
+    },
+    {
+      "titolo": "1\u00b0 Corso Mascherato di Apertura",
+      "categoria": "CorsoMascherato",
+      "descrizione": "Al termine spettacolo pirotecnico.",
+      "inizio": "2027-01-30T16:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    },
+    {
+      "titolo": "2\u00b0 Corso Mascherato Notturno",
+      "categoria": "CorsoMascherato",
+      "descrizione": "Corso Mascherato del Gioved\u00ec Grasso.",
+      "inizio": "2027-02-04T17:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    },
+    {
+      "titolo": "3\u00b0 Corso Mascherato",
+      "categoria": "CorsoMascherato",
+      "inizio": "2027-02-07T15:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    },
+    {
+      "titolo": "4\u00b0 Corso Mascherato",
+      "categoria": "CorsoMascherato",
+      "descrizione": "Corso Mascherato del Marted\u00ec Grasso.",
+      "inizio": "2027-02-09T15:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    },
+    {
+      "titolo": "5\u00b0 Corso Mascherato",
+      "categoria": "CorsoMascherato",
+      "inizio": "2027-02-14T15:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    },
+    {
+      "titolo": "6\u00b0 Corso Mascherato di Chiusura",
+      "categoria": "CorsoMascherato",
+      "descrizione": "Al termine proclamazione dei vincitori e spettacolo pirotecnico.",
+      "inizio": "2027-02-20T16:00:00+01:00",
+      "luogo": "Lungomare di Viareggio"
+    }
+  ],
+  "luoghi": [
+    {
+      "nome": "La Cittadella del Carnevale",
+      "descrizione": "Inaugurata il 15 dicembre 2001, \u00e8 il pi\u00f9 grande parco tematico dedicato alla creativit\u00e0 del Carnevale. Sedici capannoni e altri edifici sono disposti intorno a una piazza ellittica intitolata a Burlamacco, con i portoni degli hangar dipinti con le riproduzioni dei manifesti storici. Ospita i laboratori dove gli artisti della cartapesta lavorano tutto l'anno, il Museo del Carnevale, una tenda da circo permanente, i laboratori didattici, la Carnival Lab Academy, un bistrot e gli uffici della Fondazione Carnevale. L'accesso alla piazza \u00e8 libero e gratuito.",
+      "indirizzo": "Viareggio (LU)"
+    },
+    {
+      "nome": "Museo del Carnevale",
+      "descrizione": "Un viaggio nella storia del Carnevale di Viareggio attraverso immagini e opere: una timeline che parte dal 1873 e arriva al 2001, anno di inaugurazione della Cittadella. Documenta l'evoluzione artistica dell'evento, i luoghi in cui il Carnevale \u00e8 nato e cresciuto e il lavoro degli artisti.",
+      "indirizzo": "Cittadella del Carnevale, Viareggio (LU)",
+      "orari": "Settembre - giugno: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 15.00-19.00; sabato 9.00-13.00 e 15.00-19.00.\n10 giugno - 13 settembre: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 9.00-13.00; sabato 9.00-13.00 e 15.00-19.00.\nNei giorni dei Corsi Mascherati: aperto solo la mattina, 9.00-13.00."
+    },
+    {
+      "nome": "Espace Gilbert",
+      "descrizione": "Spazio espositivo nell'Hangar 16, parte del percorso del Museo del Carnevale, che raccoglie una selezione di opere in cartapesta e ospita le esposizioni temporanee dedicate a questa tecnica.",
+      "indirizzo": "Hangar 16, Cittadella del Carnevale, Viareggio (LU)"
+    },
+    {
+      "nome": "Collezione Carnevalotto",
+      "descrizione": "Ventotto opere del Premio Carnevalotto, realizzate da diversi artisti e ispirate al Carnevale di Viareggio, esposte in uno spazio permanente della Galleria d'Arte Moderna e Contemporanea \u201cLorenzo Viani\u201d.",
+      "indirizzo": "Palazzo delle Muse, Viareggio (LU)"
+    },
+    {
+      "nome": "Lungomare di Viareggio",
+      "descrizione": "I Viali a Mare sono il circuito dei Corsi Mascherati: qui sfilano i carri allegorici di prima e seconda categoria, le mascherate in gruppo e le maschere isolate.",
+      "indirizzo": "Viali a Mare, Viareggio (LU)"
+    }
+  ],
+  "storia": [
+    {
+      "titolo": "Le tradizioni del Carnevale",
+      "testo": "L'anima del Carnevale di Viareggio sono le mastodontiche opere allegoriche in cartapesta, materiale con cui gli artisti viareggini danno vita a carri straordinari. Questi giganti sfidano le leggi della fisica con la loro grandezza e i loro stupefacenti movimenti. Il percorso del Museo del Carnevale parte dal 1873 e racconta l'evoluzione artistica della manifestazione."
+    },
+    {
+      "titolo": "La cartapesta",
+      "testo": "Per fare i grandi carri occorrono tonnellate di fogli di carta di giornale, impastati con la colla pi\u00f9 semplice e naturale: acqua e farina. La materia prima \u00e8 la cartapesta, o meglio la carta a calco, perfezionata dal pittore e costruttore viareggino Antonio D'Arliano nel 1925: ha permesso di realizzare opere sempre pi\u00f9 grandi e allo stesso tempo leggere. Modelli in creta, calchi in gesso, carta di giornale e colla sono gli ingredienti di questo spettacolo, fondato sulla filosofia del recupero e del riciclo.",
+      "annoIniziale": 1925
+    },
+    {
+      "titolo": "I giganti del Carnevale",
+      "testo": "Grazie alla cartapesta i costruttori viareggini realizzano veri e propri teatri viaggianti: alti oltre 20 metri e larghi 12, i carri allegorici sono creati per stupire e coinvolgere il pubblico durante i Corsi Mascherati. A realizzarli sono i maestri costruttori viareggini, 21 ditte artigiane con centinaia di persone al lavoro tutto l'anno nella Cittadella."
+    },
+    {
+      "titolo": "Burlamacco e Ondina",
+      "testo": "Burlamacco, maschera ufficiale del Carnevale di Viareggio, appare per la prima volta sul manifesto del 1931 ed \u00e8 ideata da Uberto Bonetti (1909-1993), pittore, grafico e scenografo. Il suo abito nasce dagli scacchi di Arlecchino, dal mantello nero del Dottor Balanzone, dal pon-pon di Pierrot, dal cappello di Rugantino e dalla gorgiera di Capitan Spaventa, scomposti e ricomposti secondo il gusto del futurismo. Il battesimo del nome avvenne nel 1939 durante una festa a Firenze: richiama Buffalmacco, il pittore burlone delle novelle di Boccaccio, e la Burlamacca, il canale emissario del lago di Massaciuccoli. Al suo fianco, sul manifesto del 1931, c'\u00e8 Ondina, la bagnante in costume anni Trenta che rappresenta l'estate viareggina: insieme sono le icone delle due stagioni della citt\u00e0.",
+      "annoIniziale": 1931,
+      "annoFinale": 1939
+    },
+    {
+      "titolo": "Le officine del Carnevale",
+      "testo": "Fino al dopoguerra i carri nascevano in vari luoghi della citt\u00e0: vicino ai cantieri della Darsena, in spazi privati, garage e cortili. Nel 1948 vennero costruiti i capannoni di via Cairoli, distrutti da un incendio nell'estate del 1960. In pochi mesi furono realizzati gli hangar di via Marco Polo, dentro i quali sono nati i carri allegorici dal 1961 al 2001. Il 26 settembre 2001 le costruzioni furono trasferite nell'attuale Cittadella.",
+      "annoIniziale": 1948,
+      "annoFinale": 2001
+    },
+    {
+      "titolo": "I manifesti e la musica",
+      "testo": "Dal 1925 ogni edizione del Carnevale di Viareggio ha un manifesto ufficiale e in oltre cento anni la grafica d'autore ne ha raccontato la magia. I grandi carri allegorici si muovono a ritmo di musica: dal 1921 ogni edizione ha una canzone ufficiale, scelta tramite concorso oppure commissionata direttamente.",
+      "annoIniziale": 1921
+    },
+    {
+      "titolo": "L'Albo d'Oro",
+      "testo": "Ogni edizione termina con la proclamazione dei vincitori: la giuria emette i verdetti sulle opere allegoriche nelle quattro categorie di concorso, ovvero carri di prima categoria, carri di seconda categoria, mascherate in gruppo e maschere isolate. Ogni triennio la somma dei punteggi stabilisce promozioni e retrocessioni tra le categorie. Insieme ai verdetti vengono comunicati anche i Premi Speciali."
+    }
+  ],
+  "biglietteria": {
+    "comeAcquistare": "Per assistere alle sfilate dei carri allegorici sul Lungomare \u00e8 necessario acquistare il biglietto di ingresso. I biglietti possono essere acquistati online oppure presso i punti fisici agli ingressi della manifestazione nei giorni dei Corsi Mascherati. I biglietti del Carnevale non sono nominativi.\n\nHanno accesso gratuito i bambini fino a 1,20 metri di altezza.\n\nInfo e contatti biglietteria: +39 0584 580 740 - +39 0584 580 741, biglietteria@ilcarnevale.com",
+    "sitoBiglietteria": "https://viareggio.ilcarnevale.com/biglietti/",
+    "tariffe": [
+      {
+        "tipo": "Biglietto di ingresso",
+        "prezzo": 16.50,
+        "aPartireDa": true,
+        "note": "Valido per l'ingresso a un solo Corso Mascherato, con data definita al momento dell'acquisto."
+      },
+      {
+        "tipo": "Prezzo speciale Gioved\u00ec Grasso",
+        "prezzo": 15.00,
+        "aPartireDa": true,
+        "note": "Biglietto scontato valido per il Corso Mascherato di Gioved\u00ec Grasso, il 4 febbraio."
+      },
+      {
+        "tipo": "Supplemento Tribuna",
+        "prezzo": 25.00,
+        "aPartireDa": true,
+        "note": "Da acquistare insieme o in aggiunta all'ingresso al Corso Mascherato: d\u00e0 diritto a un posto riservato in tribuna."
+      },
+      {
+        "tipo": "Biglietto Open",
+        "prezzo": 25.00,
+        "note": "Valido per l'ingresso a un singolo Corso Mascherato a scelta, senza specificare la data al momento dell'acquisto."
+      },
+      {
+        "tipo": "Pacchetto GOLD",
+        "prezzo": 70.00,
+        "aPartireDa": true,
+        "note": "Ingresso al Corso Mascherato, posto numerato in Tribuna centrale (Piazza Mazzini) e accesso Salta la fila."
+      },
+      {
+        "tipo": "Comitive",
+        "prezzo": 14.50,
+        "aPartireDa": true,
+        "note": "Il gruppo deve essere composto da almeno 25 persone e il biglietto d\u00e0 diritto a un ingresso aggiuntivo gratuito. Valido per un singolo Corso Mascherato con data prefissata."
+      },
+      {
+        "tipo": "Forze dell'ordine",
+        "prezzo": 16.50,
+        "note": "Acquistabile solo il giorno della sfilata presso la biglietteria della Cittadella e le biglietterie agli ingressi del circuito, presentando il tesserino."
+      },
+      {
+        "tipo": "Bambini fino a 1,20 m",
+        "prezzo": 0,
+        "note": "Ingresso gratuito."
+      }
+    ]
+  }
+}
