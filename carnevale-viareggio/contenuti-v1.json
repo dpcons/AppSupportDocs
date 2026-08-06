@@ -1,8 +1,64 @@
 {
   "versione": 1,
   "edizione": "2027",
-  "aggiornatoIl": "2026-08-06T18:00:00+02:00",
+  "aggiornatoIl": "2026-08-07T10:00:00+02:00",
   "fonte": "https://viareggio.ilcarnevale.com/",
+  "notizie": [
+    {
+      "id": "maschere-pineta-di-ponente",
+      "titolo": "Le maschere del Carnevale sfilano nella Pineta di Ponente",
+      "pubblicataIl": "2026-08-01T09:00:00+02:00",
+      "sommario": "L'estate del Carnevale di Viareggio arriva sabato 1 agosto nella Pineta di Ponente, a ingresso libero.",
+      "paragrafi": [
+        "L'appuntamento prende il via alle ore 18 con la sfilata lungo i viali Cadorna e Capponi, che trasforma il parco in un palcoscenico a cielo aperto dove cartapesta, musica e maschere incontrano cittadini e turisti.",
+        "Protagoniste sono le mascherate in gruppo e le maschere isolate che hanno partecipato all'edizione 2026 del Carnevale di Viareggio, affiancate da Burlamacco e Ondina, dalla Compagnia di Burlamacco e dalle maschere dei Rioni, che accompagnano il corteo lungo il percorso.",
+        "Ad animare la sfilata sono anche le bande musicali Filarmonica Versilia, banda del Carnevale di Viareggio, la street band Pedrasamba e la Banda Spettacolo La Campagnola di Marlia.",
+        "L'appuntamento rinnova una tradizione iniziata nel 1927, quando il Carnevale color\u00f2 in piena estate il parco cittadino: un'iniziativa riproposta dal 2024 dopo molti anni.",
+        "Gli eventi estivi del Carnevale di Viareggio tornano in Cittadella luned\u00ec 10 agosto per l'attesa Notte dei Bozzetti, quando gli artisti sveleranno i loro progetti per il Carnevale 2027."
+      ],
+      "url": "https://viareggio.ilcarnevale.com/news/le-maschere-del-carnevale-di-viareggio-sfilano-nella-pineta-di-ponente/"
+    },
+    {
+      "id": "estate-in-cittadella",
+      "titolo": "Estate in Cittadella",
+      "pubblicataIl": "2026-07-25T09:00:00+02:00",
+      "sommario": "Sabato 25 luglio il primo dei tre appuntamenti estivi, tra carri in movimento, musica, giochi e DJ set.",
+      "paragrafi": [
+        "Torna \"Estate in Cittadella\", il cartellone estivo del Carnevale di Viareggio: la Cittadella del Carnevale si trasforma in un grande spazio di festa con iniziative dedicate a tutte le et\u00e0 e l'atteso ritorno in scena di quattro carri allegorici dell'edizione 2026.",
+        "La serata, a ingresso libero, si apre alle 19 con il Serbacco Vintage Village, un allestimento ispirato agli anni Cinquanta, Sessanta e Settanta, con giochi in legno, musica e piccole attrazioni come flipper ball, tiro ai barattoli e minigolf.",
+        "Alle 20.45 la piazza si anima con la sfilata della Filarmonica Versilia, banda ufficiale del Carnevale, insieme alla street band Pedrasamba, accompagnate da Burlamacco, Ondina e dalle maschere dei Rioni.",
+        "Alle 21.30 tornano a esibirsi quattro carri allegorici sul podio dell'edizione 2026: In bocca al lupo di Luca Bertozzi, La Gallina dalle uova d'oro di Alessandro Avanzini, I Samurai del Potere di Luigi Bonetti e Native American Return di Fabrizio e Valentina Galli.",
+        "Dalle 22.45 la festa prosegue con il DJ set di Radio Bruno, affidato a Francesco Cinelli e Andrea Mastroberti.",
+        "Il Museo del Carnevale osserva un'apertura straordinaria dalle 9 alle 13 e dalle 20 alle 24, con ultimo ingresso 30 minuti prima della chiusura. Alle 20.15 \u00e8 in programma una visita guidata: il servizio di guida \u00e8 gratuito, il biglietto d'ingresso costa 5 euro e la prenotazione \u00e8 obbligatoria al numero 342 9207959, anche via WhatsApp.",
+        "Estate in Cittadella prosegue sabato 1 agosto con la sfilata delle mascherate in Pineta di Ponente e si conclude luned\u00ec 10 agosto con la Notte dei Bozzetti."
+      ],
+      "url": "https://viareggio.ilcarnevale.com/news/estate-in-cittadella/"
+    },
+    {
+      "id": "il-carnevale-accende-lestate",
+      "titolo": "Il Carnevale di Viareggio accende l'estate",
+      "pubblicataIl": "2026-07-10T09:00:00+02:00",
+      "sommario": "Mascherate, carri allegorici e la Notte dei Bozzetti: il programma degli eventi tra luglio e agosto.",
+      "paragrafi": [
+        "Il Carnevale di Viareggio porta la propria festa anche nei mesi estivi con tre appuntamenti tra la Cittadella del Carnevale e la citt\u00e0.",
+        "Si comincia sabato 25 luglio in Cittadella con Estate in Cittadella, si prosegue sabato 1 agosto con la sfilata delle mascherate in gruppo e delle maschere isolate nella Pineta di Ponente e si chiude luned\u00ec 10 agosto con la Notte dei Bozzetti, in cui gli artisti presentano i progetti per l'edizione 2027."
+      ],
+      "url": "https://viareggio.ilcarnevale.com/news/il-carnevale-di-viareggio-accende-lestate/"
+    },
+    {
+      "id": "cittadella-kids-campus",
+      "titolo": "Cittadella Kids Campus, che successo!",
+      "pubblicataIl": "2026-06-22T09:00:00+02:00",
+      "sommario": "Tutto esaurito per la prima settimana del campus estivo tra creativit\u00e0, laboratori in inglese e scoperta del Carnevale.",
+      "paragrafi": [
+        "\u00c8 iniziata con entusiasmo e il tutto esaurito la prima settimana del Cittadella Kids Campus Summer 2026, il progetto estivo dedicato ai bambini dai 5 ai 10 anni promosso dalla Fondazione Carnevale di Viareggio negli spazi della Cittadella e del Museo del Carnevale.",
+        "Le attivit\u00e0 uniscono gioco, apprendimento e creativit\u00e0: laboratori di cartapesta e disegno, storytelling, teatro in inglese, giochi di movimento e momenti all'aria aperta.",
+        "Il programma prosegue fino al 26 giugno e poi dal 31 agosto al 4 settembre e dal 7 all'11 settembre, con gli ultimi posti disponibili.",
+        "Informazioni e iscrizioni: 342 9207959 (anche WhatsApp), cittadelladelcarnevale@ilcarnevale.com."
+      ],
+      "url": "https://viareggio.ilcarnevale.com/news/cittadella-kids-campus-che-successo/"
+    }
+  ],
   "eventi": [
     {
       "titolo": "La Notte dei Bozzetti 2027",
