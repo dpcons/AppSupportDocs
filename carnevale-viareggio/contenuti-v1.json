@@ -1,13 +1,13 @@
 {
   "versione": 1,
   "edizione": "2027",
-  "aggiornatoIl": "2026-08-06T00:00:00+02:00",
+  "aggiornatoIl": "2026-08-06T18:00:00+02:00",
   "fonte": "https://viareggio.ilcarnevale.com/",
   "eventi": [
     {
       "titolo": "La Notte dei Bozzetti 2027",
       "categoria": "AppuntamentoCulturale",
-      "descrizione": "Presentazione pubblica dei bozzetti delle opere allegoriche della prossima edizione.",
+      "descrizione": "Gli artisti della cartapesta salgono sul palco per presentare i progetti delle opere che sfileranno al Carnevale di Viareggio 2027, in uno spettacolo fatto di coreografie, costumi, musica e proiezioni. Ingresso libero; il Museo del Carnevale resta aperto dalle 20.00 a mezzanotte.",
       "inizio": "2026-08-10T21:00:00+02:00",
       "luogo": "Cittadella del Carnevale di Viareggio"
     },
@@ -60,7 +60,7 @@
     },
     {
       "nome": "Museo del Carnevale",
-      "descrizione": "Un viaggio nella storia del Carnevale di Viareggio attraverso immagini e opere: una timeline che parte dal 1873 e arriva al 2001, anno di inaugurazione della Cittadella. Documenta l'evoluzione artistica dell'evento, i luoghi in cui il Carnevale \u00e8 nato e cresciuto e il lavoro degli artisti.",
+      "descrizione": "Un viaggio nella storia del Carnevale di Viareggio attraverso immagini e opere: una timeline che parte dal 1873 e arriva al 2001, anno di inaugurazione della Cittadella. Documenta l'evoluzione artistica dell'evento, i luoghi in cui il Carnevale \u00e8 nato e cresciuto e il lavoro degli artisti.\n\nI biglietti si acquistano anche al bookshop fino a 30 minuti prima della chiusura. Ingresso gratuito per i minori fino a 11 anni accompagnati da un adulto, per i cittadini dell'Unione Europea con disabilit\u00e0 e un accompagnatore, e per capigruppo, insegnanti e accompagnatori di scolaresche.\n\nInformazioni: +39 342 920 7959, cittadelladelcarnevale@ilcarnevale.com",
       "indirizzo": "Cittadella del Carnevale, Viareggio (LU)",
       "orari": "Settembre - giugno: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 15.00-19.00; sabato 9.00-13.00 e 15.00-19.00.\n10 giugno - 13 settembre: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 9.00-13.00; sabato 9.00-13.00 e 15.00-19.00.\nNei giorni dei Corsi Mascherati: aperto solo la mattina, 9.00-13.00."
     },
@@ -117,7 +117,7 @@
     }
   ],
   "biglietteria": {
-    "comeAcquistare": "Per assistere alle sfilate dei carri allegorici sul Lungomare \u00e8 necessario acquistare il biglietto di ingresso. I biglietti possono essere acquistati online oppure presso i punti fisici agli ingressi della manifestazione nei giorni dei Corsi Mascherati. I biglietti del Carnevale non sono nominativi.\n\nHanno accesso gratuito i bambini fino a 1,20 metri di altezza.\n\nInfo e contatti biglietteria: +39 0584 580 740 - +39 0584 580 741, biglietteria@ilcarnevale.com",
+    "comeAcquistare": "Per assistere alle sfilate dei carri allegorici sul Lungomare \u00e8 necessario acquistare il biglietto di ingresso. I biglietti possono essere acquistati online oppure presso i punti fisici agli ingressi della manifestazione nei giorni dei Corsi Mascherati. I biglietti del Carnevale non sono nominativi.\n\nHanno accesso gratuito i bambini fino a 1,20 metri di altezza.\n\nLa Fondazione Carnevale ha comunicato che il regolamento di accesso delle persone con disabilit\u00e0 al Carnevale 2027 \u00e8 in fase di elaborazione.\n\nInfo e contatti biglietteria: +39 0584 580 740 - +39 0584 580 741, biglietteria@ilcarnevale.com",
     "sitoBiglietteria": "https://viareggio.ilcarnevale.com/biglietti/",
     "tariffe": [
       {
