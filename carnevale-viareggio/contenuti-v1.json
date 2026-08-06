@@ -59,6 +59,37 @@
       "url": "https://viareggio.ilcarnevale.com/news/cittadella-kids-campus-che-successo/"
     }
   ],
+  "opere": [
+    { "id": "in-bocca-al-lupo", "titolo": "In bocca al lupo", "artista": "Luca Bertozzi", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 1, "video": "https://www.youtube.com/watch?v=FK-nVSUXU30" },
+    { "id": "i-samurai-del-potere", "titolo": "I samurai del potere", "artista": "Luigi Bonetti", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 2, "video": "https://www.youtube.com/watch?v=wLUsepyjQqA" },
+    { "id": "la-gallina-dalle-uova-doro", "titolo": "La gallina dalle uova d'oro", "artista": "Alessandro Avanzini", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 3, "video": "https://www.youtube.com/watch?v=Kb1wjnRhoR0" },
+    { "id": "nel-campo-dei-miracoli", "titolo": "Nel campo dei miracoli", "artista": "Jacopo Allegrucci", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 4, "video": "https://www.youtube.com/watch?v=zn0Sk8_1Xpw" },
+    { "id": "999", "titolo": "999", "artista": "Carlo e Lorenzo Lombardi", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 5, "video": "https://www.youtube.com/watch?v=p6czIDQdfXY" },
+    { "id": "gran-casino-rien-ne-va-plus", "titolo": "Gran Casino. Rien ne va plus", "artista": "Lebigre e Roger", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 6, "video": "https://www.youtube.com/watch?v=2uoCz55f3Bk" },
+    { "id": "nemmeno-con-un-fiore", "titolo": "Nemmeno con un fiore", "artista": "Umberto, Stefano e Michele Cinquini", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 7, "video": "https://www.youtube.com/watch?v=ynxTzGGCt8w" },
+    { "id": "the-last-hope", "titolo": "The last hop(e). Il cambiamento climatico \u00e8 una bufala", "artista": "Massimo e Alessandro Breschi", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 8, "video": "https://www.youtube.com/watch?v=rE58fiXsDRc" },
+    { "id": "io-vivo-in-questo-momento", "titolo": "Io vivo in questo momento", "artista": "Roberto Vannucci", "categoria": "PrimaCategoria", "edizione": "2026", "posizione": 9, "video": "https://www.youtube.com/watch?v=QalQuiZ_1GA" },
+    { "id": "native-american-return", "titolo": "Native american return", "artista": "Fabrizio e Valentina Galli", "categoria": "SecondaCategoria", "edizione": "2026", "posizione": 1, "video": "https://www.youtube.com/watch?v=iL8DEQ6H0O4" },
+    { "id": "non-scendo-piu", "titolo": "Non scendo pi\u00f9", "artista": "Matteo Raciti", "categoria": "SecondaCategoria", "edizione": "2026", "posizione": 2, "video": "https://www.youtube.com/watch?v=kqt09xcpX6o" },
+    { "id": "parita-degenere", "titolo": "Parit\u00e0 degenere", "artista": "Priscilla Borri", "categoria": "SecondaCategoria", "edizione": "2026", "posizione": 3, "video": "https://www.youtube.com/watch?v=JecT4PqfK4w" },
+    { "id": "carnevale-futurista", "titolo": "Carnevale futurista. Omaggio a Depero", "artista": "Luciano Tomei", "categoria": "SecondaCategoria", "edizione": "2026", "posizione": 4, "video": "https://www.youtube.com/watch?v=SAoz8_CCEtQ" },
+    { "id": "i-semi-del-tempo", "titolo": "I semi del tempo", "artista": "Silvano Bianchi", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 1, "video": "https://www.youtube.com/watch?v=T1sGO83Woo0" },
+    { "id": "io-non-ho-paura", "titolo": "Io non ho paura", "artista": "Edoardo Ceragioli", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 2, "video": "https://www.youtube.com/watch?v=oeaRwvARqDE" },
+    { "id": "le-tenebre-della-mente", "titolo": "Le tenebre della mente", "artista": "Michelangelo Francesconi", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 3, "video": "https://www.youtube.com/watch?v=16a6MFD19GQ" },
+    { "id": "poker-face", "titolo": "Poker face", "artista": "Giacomo Marsili", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 4, "video": "https://www.youtube.com/watch?v=2UrxM7gC6pg" },
+    { "id": "dove-andremo-a-finire", "titolo": "Dove andremo a finire?", "artista": "Marzia Etna e Matteo Lamanuzzi", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 5, "video": "https://www.youtube.com/watch?v=0TBdRXYv2Hw" },
+    { "id": "i-bambini-pensano-a-colori", "titolo": "I bambini pensano a colori", "artista": "Roberto De Leo e Vania Fornaciari", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 6, "video": "https://www.youtube.com/watch?v=ceJuCxCN4kU" },
+    { "id": "cave-canem", "titolo": "Cave canem", "artista": "Stefano Di Giusto", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 7, "video": "https://www.youtube.com/watch?v=M2OEdYhvAeE" },
+    { "id": "dadaumpa", "titolo": "Dadaumpa", "artista": "Giampiero Ghiselli, su progetto di Maria Chiara Franceschini", "categoria": "MascherataInGruppo", "edizione": "2026", "posizione": 8, "video": "https://www.youtube.com/watch?v=c3IHA5eDmdU" },
+    { "id": "emozioni", "titolo": "Emozioni. Tutto ci\u00f2 che ci resta", "artista": "Lorenzo Paoli", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 1, "video": "https://www.youtube.com/watch?v=Aq4zp97AcCg" },
+    { "id": "uno-nessuno-e-centomila", "titolo": "Uno, nessuno e centomila", "artista": "Raffaele Morvillo", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 2, "video": "https://www.youtube.com/watch?v=WOXMRFsRAL8" },
+    { "id": "la-dittatura-della-paura", "titolo": "La dittatura della paura", "artista": "Alessandro Vanni", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 3, "video": "https://www.youtube.com/watch?v=suR-EF0UObc" },
+    { "id": "utopia-la-citta-silenziosa", "titolo": "Utopia. La citt\u00e0 silenziosa", "artista": "Sara Culli", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 4, "video": "https://www.youtube.com/watch?v=29wr7JdhXWo" },
+    { "id": "le-carnaval-des-animaux", "titolo": "Le carnaval des animaux", "artista": "Simona Francesconi", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 5, "video": "https://www.youtube.com/watch?v=mf5k4b12tds" },
+    { "id": "il-fuoco-era-la-cura", "titolo": "Il fuoco era la cura", "artista": "Alessandro Mattiello", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 6, "video": "https://www.youtube.com/watch?v=MpETerioPS4" },
+    { "id": "oltre-la-tua-ombra", "titolo": "Oltre la tua ombra", "artista": "Andrea Giulio Ciaramitaro", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 7, "video": "https://www.youtube.com/watch?v=T8rkbxcZ5D0" },
+    { "id": "avidita", "titolo": "Avidit\u00e0", "artista": "Edoardo Spinetti", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 8, "video": "https://www.youtube.com/watch?v=wOkhLGTmIF8" }
+  ],
   "eventi": [
     {
       "titolo": "La Notte dei Bozzetti 2027",
