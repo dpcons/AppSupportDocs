@@ -90,6 +90,146 @@
     { "id": "oltre-la-tua-ombra", "titolo": "Oltre la tua ombra", "artista": "Andrea Giulio Ciaramitaro", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 7, "video": "https://www.youtube.com/watch?v=T8rkbxcZ5D0" },
     { "id": "avidita", "titolo": "Avidit\u00e0", "artista": "Edoardo Spinetti", "categoria": "MascheraIsolata", "edizione": "2026", "posizione": 8, "video": "https://www.youtube.com/watch?v=wOkhLGTmIF8" }
   ],
+  "artisti": [
+    {
+      "id": "jacopo-allegrucci",
+      "nome": "Jacopo Allegrucci",
+      "biografia": "Laureato all'Accademia di Belle Arti di Carrara con una tesi sul Carnevale, debutta in concorso nel 1998 con la maschera isolata \"Il Metronotte\". Passa alle mascherate, quindi alla seconda categoria nel 2005 e alla prima dal 2017. Ha vinto quattro volte: nel 2019, 2022, 2023 e 2024.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/jacopo-allegrucci/",
+      "sito": "https://www.facebook.com/jacopo.allegrucci.5"
+    },
+    {
+      "id": "alessandro-avanzini",
+      "nome": "Alessandro Avanzini",
+      "biografia": "Costruisce carri allegorici da circa quarant'anni nella bottega fondata dal padre Silvano nel 1948, facendo della progettazione digitale un punto di forza. Autore di prima categoria, ha conquistato nove primi premi, da \"I vampiri\" del 1993 a \"Frontiere\" del 2017.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/alessandro-avanzini/",
+      "sito": "https://www.alessandroavanzini.it/"
+    },
+    {
+      "id": "luca-bertozzi",
+      "nome": "Luca Bertozzi",
+      "biografia": "Firma costruzioni allegoriche dal 2007, esordendo nelle maschere isolate; dal 2013 al 2017 vince ogni anno nelle mascherate in gruppo. Dopo un triennio in seconda categoria passa in prima nel 2021, vincendo subito con \"Sotto sotto\". \u00c8 specialista della modellatura.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/luca-bertozzi/",
+      "sito": "https://www.lucabertozziscenografie.com/"
+    },
+    {
+      "id": "silvano-bianchi",
+      "nome": "Silvano Bianchi",
+      "biografia": "Inizia nel 2015 con una maschera isolata e, grazie alla vittoria del 2017, viene promosso alle mascherate in gruppo, categoria in cui gareggia oggi. Qui ha ottenuto due primi premi: \"La cultura fa paura\" nel 2020 e \"I have a dream\" nel 2022.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/silvano-bianchi/",
+      "sito": "https://www.creazionisilvanobianchi.it/"
+    },
+    {
+      "id": "luigi-bonetti",
+      "nome": "Luigi Bonetti",
+      "biografia": "Titolare de \"La fabbrica dei sogni\", entra nel Carnevale nel 1994 come collaboratore e dal 2005 \u00e8 coautore. Nipote di Uberto Bonetti, creatore di Burlamacco, ha lavorato con Renato Verlanti ai carri vincitori degli anni Novanta, a partire da \"Moby Dick\".",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/luigi-bonetti/"
+    },
+    {
+      "id": "priscilla-borri",
+      "nome": "Priscilla Borri",
+      "biografia": "Diplomata in scultura all'Accademia di Belle Arti di Firenze, debutta nel 1995 con la maschera isolata \"Promesse di governo\". Titolare di Fantasticarte, dal 2018 gareggia in seconda categoria: ha vinto il primo premio nel 2019 e dal 2022 firma da sola i suoi carri.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/priscilla-borri/"
+    },
+    {
+      "id": "massimo-breschi",
+      "nome": "Massimo Breschi",
+      "firme": ["Massimo e Alessandro Breschi"],
+      "biografia": "Apprende la cartapesta nelle botteghe di Silvano Avanzini e Carlo Vannucci. Debutta nel 1985 con la maschera isolata \"Regis\", passa alle mascherate nel 1990 e ai carri di seconda categoria a inizio anni Duemila. Vince il Carnevale 2015 con \"Quello che non vorrei vedere\".",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/massimo-breschi/"
+    },
+    {
+      "id": "edoardo-ceragioli",
+      "nome": "Edoardo Ceragioli",
+      "biografia": "Esordisce nel 1998 con la maschera isolata \"Fuga di gas\", subito primo premio, bissato nel 1999. Promosso alle mascherate in gruppo, categoria in cui \u00e8 tuttora impegnato, ha realizzato anche diversi carri di seconda. Predilige la satira politica e di costume.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/edoardo-ceragioli/"
+    },
+    {
+      "id": "umberto-stefano-michele-cinquini",
+      "nome": "Umberto, Stefano e Michele Cinquini",
+      "biografia": "Famiglia attiva fin dai tempi del carpentiere Mario: Umberto vince fra le maschere isolate nel 1985 e dal 1991 lavora con il fratello Stefano. Hanno collaborato con Arnaldo Galli e Dario Fo, vinto cinque volte di fila in seconda categoria e in prima nel 2018 con \"Papaveri rossi\".",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/umberto-stefano-michele-jacopo-cinquini/"
+    },
+    {
+      "id": "roberto-de-leo-vania-fornaciari",
+      "nome": "Roberto De Leo e Vania Fornaciari",
+      "biografia": "Roberto De Leo costruisce in concorso dal 1994, partendo dalle maschere isolate, e dal 2005 gareggia nelle mascherate in gruppo. Dal 2012 \u00e8 in societ\u00e0 con Vania Fornaciari. Fra i risultati, il secondo posto del 2015 con l'opera dedicata alla matita.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/roberto-de-leo-e-vania-fornaciari/"
+    },
+    {
+      "id": "stefano-di-giusto",
+      "nome": "Stefano Di Giusto",
+      "biografia": "Maestro d'Arte Applicata all'istituto \"Stagio Stagi\" di Pietrasanta e formatosi in scultura a Carrara, espone in Italia e all'estero. Nel Carnevale dal 2015 come modellatore, dal 2018 nelle maschere isolate, vincendo nel 2019 con \"LampMedusa\", e dal 2021 nelle mascherate.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/stefano-di-giusto/",
+      "sito": "https://www.instagram.com/stefanodigiusto_anarkicarte"
+    },
+    {
+      "id": "marzia-etna-matteo-lamanuzzi",
+      "nome": "Marzia Etna e Matteo Lamanuzzi",
+      "biografia": "Diplomata al liceo artistico di Lucca, Marzia Etna lavora la cartapesta dagli anni Ottanta e vince il primo premio gi\u00e0 con la maschera d'esordio del 1987. Passata alle mascherate, vince nel 2012 con \"Trenitalia\"; dal 2021 firma le opere con il figlio Matteo.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/marzia-etna-e-matteo-lamanuzzi/"
+    },
+    {
+      "id": "michelangelo-francesconi",
+      "nome": "Michelangelo Francesconi",
+      "biografia": "Fra i pi\u00f9 giovani artisti del Carnevale, si \u00e8 formato a bottega con i maestri della cartapesta imparando bozzetto, modellatura, colore e movimenti. Dopo tre successi consecutivi nelle maschere isolate, dal 2021 al 2023, nel 2024 debutta nelle mascherate in gruppo.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/michelangelo-francesconi/"
+    },
+    {
+      "id": "fabrizio-valentina-galli",
+      "nome": "Fabrizio e Valentina Galli",
+      "biografia": "Nato a Viareggio nel 1962, Fabrizio Galli \u00e8 figlio d'arte di una storica famiglia di carristi. Costruisce dal 1987 in seconda e prima categoria: vince nel 1989, nel 1991 e nel 2016 con \"Barbarians\". Dal 2022 firma progetti e realizzazioni con la figlia Valentina.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/fabrizio-e-valentina-galli/"
+    },
+    {
+      "id": "giampiero-ghiselli",
+      "nome": "Giampiero Ghiselli",
+      "firme": ["Giampiero Ghiselli, su progetto di Maria Chiara Franceschini"],
+      "biografia": "Artigiano della cartapesta con oltre vent'anni di esperienza, inizia dalle maschere isolate e dal 1998 gareggia nelle mascherate. Dal 2004 collabora con Maria Chiara Franceschini: insieme hanno vinto nel 2006 e nel 2018 con \"La natura siamo noi\". Tema ricorrente \u00e8 la satira politica.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/giampiero-ghiselli/",
+      "sito": "https://www.facebook.com/giampiero.ghiselli.5"
+    },
+    {
+      "id": "lebigre-roger",
+      "nome": "Lebigre e Roger",
+      "biografia": "Gilbert Lebigre e Corinne Roger esordiscono nel 1980 e dal 1986 firmano carri di prima categoria, vincendo nel 1988 con \"Madonna Ciccone\" e nel 2012 con \"Santo subito\". Dal 2017 i figli Elodie, Sebastian e Benjamin affiancano la madre: primi nel 2020 con \"Home sweet home\".",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/lebigre-e-roger/",
+      "sito": "https://www.facebook.com/compagniadelcarnevaleofficialpage"
+    },
+    {
+      "id": "carlo-lorenzo-lombardi",
+      "nome": "Carlo e Lorenzo Lombardi",
+      "biografia": "Carlo Lombardi debutta nel 1987 con la maschera \"L'azzeccagarbugli\", passa in seconda categoria nel 1994 e in prima nel 2005. Ha vinto in seconda nel 2004, nel 2021 e nel 2023 con \"Occhio al malocchio\", firmata con il figlio Lorenzo; dal 2024 gareggiano insieme in prima.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/carlo-e-lorenzo-lombardi/"
+    },
+    {
+      "id": "giacomo-marsili",
+      "nome": "Giacomo Marsili",
+      "biografia": "Artista del Carnevale dal 2009, quando presenta la sua prima maschera isolata. Dal 2011 al 2014 \u00e8 in societ\u00e0 con Gionata Francesconi per carri di prima e seconda categoria. Dal 2015 prosegue con la propria impresa nelle mascherate in gruppo: secondo nel 2023.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/giacomo-marsili/",
+      "sito": "https://www.facebook.com/giacomomarsilicarnevale"
+    },
+    {
+      "id": "matteo-raciti",
+      "nome": "Matteo Raciti",
+      "biografia": "Nato ad Acireale e laureato in architettura a Catania con una tesi di scenotecnica, arriva a Viareggio nel 2016 dopo l'esperienza nel Carnevale siciliano. Ha vinto tre primi premi fra le maschere isolate e dal 2024 gareggia nei carri di seconda categoria.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/matteo-raciti/",
+      "sito": "https://www.matteoraciti.com/"
+    },
+    {
+      "id": "luciano-tomei",
+      "nome": "Luciano Tomei",
+      "biografia": "Classe 1960, diplomato all'Accademia di Belle Arti di Carrara nel 1984. Inizia come illustratore per il CarnevalDarsena, poi collabora otto anni con Piero Farnocchia e con Arnaldo e Fabrizio Galli. Dal 2021 al 2023 firma carri di prima categoria; dal 2024 \u00e8 in seconda.",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/luciano-tomei/"
+    },
+    {
+      "id": "roberto-vannucci",
+      "nome": "Roberto Vannucci",
+      "biografia": "Figlio di Carlo Vannucci, maestro attivo dal 1948, costruisce carri di prima categoria dal 1999 dopo la gavetta fra maschere isolate e carri piccoli. Ha vinto il Carnevale due volte: nel 2003 con \"La mente intelligente\" e nel 2010 con \"Una sola madre, la Terra\".",
+      "scheda": "https://viareggio.ilcarnevale.com/carnevale-cittadella/artisti/roberto-vannucci/",
+      "sito": "https://www.instagram.com/vannucciroberto"
+    }
+  ],
   "eventi": [
     {
       "titolo": "La Notte dei Bozzetti 2027",
