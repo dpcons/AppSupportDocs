@@ -175,12 +175,16 @@
     {
       "nome": "La Cittadella del Carnevale",
       "descrizione": "Inaugurata il 15 dicembre 2001, \u00e8 il pi\u00f9 grande parco tematico dedicato alla creativit\u00e0 del Carnevale. Sedici capannoni e altri edifici sono disposti intorno a una piazza ellittica intitolata a Burlamacco, con i portoni degli hangar dipinti con le riproduzioni dei manifesti storici. Ospita i laboratori dove gli artisti della cartapesta lavorano tutto l'anno, il Museo del Carnevale, una tenda da circo permanente, i laboratori didattici, la Carnival Lab Academy, un bistrot e gli uffici della Fondazione Carnevale. L'accesso alla piazza \u00e8 libero e gratuito.",
-      "indirizzo": "Viareggio (LU)"
+      "indirizzo": "Piazza Burlamacco, Viareggio (LU)",
+      "latitudine": 43.8930004,
+      "longitudine": 10.2463756
     },
     {
       "nome": "Museo del Carnevale",
       "descrizione": "Un viaggio nella storia del Carnevale di Viareggio attraverso immagini e opere: una timeline che parte dal 1873 e arriva al 2001, anno di inaugurazione della Cittadella. Documenta l'evoluzione artistica dell'evento, i luoghi in cui il Carnevale \u00e8 nato e cresciuto e il lavoro degli artisti.\n\nI biglietti si acquistano anche al bookshop fino a 30 minuti prima della chiusura. Ingresso gratuito per i minori fino a 11 anni accompagnati da un adulto, per i cittadini dell'Unione Europea con disabilit\u00e0 e un accompagnatore, e per capigruppo, insegnanti e accompagnatori di scolaresche.\n\nInformazioni: +39 342 920 7959, cittadelladelcarnevale@ilcarnevale.com",
       "indirizzo": "Cittadella del Carnevale, Viareggio (LU)",
+      "latitudine": 43.8930264,
+      "longitudine": 10.2454153,
       "orari": "Settembre - giugno: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 15.00-19.00; sabato 9.00-13.00 e 15.00-19.00.\n10 giugno - 13 settembre: luned\u00ec e marted\u00ec chiuso; da mercoled\u00ec a domenica 9.00-13.00; sabato 9.00-13.00 e 15.00-19.00.\nNei giorni dei Corsi Mascherati: aperto solo la mattina, 9.00-13.00."
     },
     {
@@ -191,12 +195,16 @@
     {
       "nome": "Collezione Carnevalotto",
       "descrizione": "Ventotto opere del Premio Carnevalotto, realizzate da diversi artisti e ispirate al Carnevale di Viareggio, esposte in uno spazio permanente della Galleria d'Arte Moderna e Contemporanea \u201cLorenzo Viani\u201d.",
-      "indirizzo": "Palazzo delle Muse, Viareggio (LU)"
+      "indirizzo": "Palazzo delle Muse, Viareggio (LU)",
+      "latitudine": 43.8710177,
+      "longitudine": 10.2434892
     },
     {
       "nome": "Lungomare di Viareggio",
       "descrizione": "I Viali a Mare sono il circuito dei Corsi Mascherati: qui sfilano i carri allegorici di prima e seconda categoria, le mascherate in gruppo e le maschere isolate.",
-      "indirizzo": "Viali a Mare, Viareggio (LU)"
+      "indirizzo": "Viali a Mare, Viareggio (LU)",
+      "latitudine": 43.8760112,
+      "longitudine": 10.2380189
     }
   ],
   "storia": [
