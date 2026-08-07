@@ -139,6 +139,38 @@
       "luogo": "Lungomare di Viareggio"
     }
   ],
+  "mostre": [
+    {
+      "id": "viareggio-napoli-andata-ritorno",
+      "titolo": "Viareggio\u2013Napoli",
+      "sottotitolo": "Andata/Ritorno",
+      "inizio": "2026-01-22T00:00:00+01:00",
+      "fine": "2026-02-22T00:00:00+01:00",
+      "sede": "Fondazione FOQUS, Quartieri Spagnoli \u2013 Napoli",
+      "descrizione": "Un viaggio tra passato e contemporaneit\u00e0, tra Burlamacco e Pulcinella, attraverso una selezione di immagini di carri storici dedicati a Napoli e alle sue icone, da Tot\u00f2 a Maradona.",
+      "url": "https://www.foqusnapoli.it/"
+    },
+    {
+      "id": "colori-ribelli",
+      "titolo": "Colori Ribelli",
+      "sottotitolo": "Il Carnevale contro la Guerra",
+      "inizio": "2026-01-27T00:00:00+01:00",
+      "fine": "2026-03-15T00:00:00+01:00",
+      "sede": "Parco Nazionale della Pace di Sant'Anna di Stazzema",
+      "descrizione": "Il Carnevale di Viareggio come voce critica sul mondo. Bozzetti dagli anni Sessanta ai Duemila affrontano il tema della guerra e della pace, tra satira, denuncia e poesia: un racconto visivo che rende evidenti le dinamiche della politica internazionale e le grandi crisi globali attraverso lo sguardo dei maestri carristi.",
+      "url": "https://parconazionaledellapace.it/"
+    },
+    {
+      "id": "colore-musica-e-maschere",
+      "titolo": "Colore, Musica e Maschere",
+      "sottotitolo": "Rosso, Bianco e Nero. Burlamacco e oltre\u2026",
+      "inizio": "2026-01-31T00:00:00+01:00",
+      "fine": "2026-04-19T00:00:00+02:00",
+      "sede": "Museo del Carnevale di Viareggio",
+      "descrizione": "Il colore \u00e8 il linguaggio principale del Carnevale di Viareggio. La mostra esplora il significato del colore nella storia sociale e nell'arte, con particolare attenzione al valore simbolico del bianco, del rosso e del nero, i colori di Burlamacco, la maschera iconica ideata da Uberto Bonetti. Un percorso tra emozione, creativit\u00e0 e comunicazione visiva.",
+      "url": "https://viareggio.ilcarnevale.com/mostre/"
+    }
+  ],
   "luoghi": [
     {
       "nome": "La Cittadella del Carnevale",
